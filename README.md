@@ -2,6 +2,7 @@
 - clone this repository
     ```bash
     git clone https://github.com/marcoguiidi/hexToBase64.git
+    cd hexToBase64
     ```
 - compilation
     ```bash
